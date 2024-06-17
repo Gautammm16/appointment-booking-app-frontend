@@ -28,7 +28,6 @@ const Register = () => {
       
       </Form>
 
-
     </div>
       
     </div>

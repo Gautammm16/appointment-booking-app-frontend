@@ -24,10 +24,8 @@ const Login = () => {
         <Button className="primary-button mt-3" target='/login'>
           Login
         </Button>
-      
+
       </Form>
-
-
     </div>
       
     </div>
