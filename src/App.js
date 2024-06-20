@@ -4,7 +4,7 @@ import {BrowserRouter ,Routes,Route} from 'react-router-dom';
 import Login from './pages/Login.js';
 import Register from './pages/Register.js';
 import {Toaster} from 'react-hot-toast';
-import Home from './pages/Home.js';
+import Home from './pages/home.js';
 
 function App() {
   return (
